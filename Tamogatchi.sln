@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9267A9AE-FD96-8E60-F6DE-A8CE71CFF31C}") = "Tamogatchi", "Assembly-CSharp.csproj", "{4E6816F7-0566-BAD5-1A4D-7396C7B7CA81}"
+EndProject
+Project("{9267A9AE-FD96-8E60-F6DE-A8CE71CFF31C}") = "Tamogatchi", "Assembly-CSharp-Editor.csproj", "{E76CA783-078F-CB15-4AD3-8D83DDB714BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E6816F7-0566-BAD5-1A4D-7396C7B7CA81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6816F7-0566-BAD5-1A4D-7396C7B7CA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6816F7-0566-BAD5-1A4D-7396C7B7CA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6816F7-0566-BAD5-1A4D-7396C7B7CA81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E76CA783-078F-CB15-4AD3-8D83DDB714BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E76CA783-078F-CB15-4AD3-8D83DDB714BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E76CA783-078F-CB15-4AD3-8D83DDB714BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E76CA783-078F-CB15-4AD3-8D83DDB714BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
